@@ -88,7 +88,7 @@ fun ComposeQuadrantApp() {
         }
 
         // kiya kar sakte hain mafia dar pe aake batka rahi hai
-        // and people just want fuck mafia in free at other credit
+        // and people just want to fuck mafia in free at other credit
         // there is no confirm law
 
 
